@@ -2,6 +2,7 @@ package bookController.demo;
 
 public class author {
     private String name;
+
     private int rating;
     private int noOfPages;
 
